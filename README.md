@@ -1,6 +1,6 @@
 # 🗳️ K8s Kind Voting App (Forked & Enhanced)
 
-> **Forked from [Shubham Londhe's Repository](https://github.com/shubhamlondhe07/devops-projects)**  
+> **Forked from [Shubham Londhe's k8s-kind-voting-app](https://github.com/LondheShubham153/k8s-kind-voting-app.git)**  
 > Enhanced and deployed with AWS EC2, Kubernetes Dashboard, and Argo CD by **Shreyas Kale**
 
 ---
@@ -54,11 +54,13 @@ This project demonstrates how to:
 - Worker: .NET core backend logic
 - PostgreSQL: Persistent storage
 - Result App: Node.js UI for displaying vote results
+---
 
 **Key Technologies:**  
 - AWS EC2  
 - Kubernetes Dashboard  
 - Argo CD  
+---
 
 **Achievements:**  
 - Implemented Kubernetes dashboard on EC2  
@@ -69,6 +71,6 @@ This project demonstrates how to:
 
 ## 🙌 Credits
 
-Original project idea and structure by [Shubham Londhe](https://github.com/shubhamlondhe07/devops-projects)  
+Original project by [Shubham Londhe](https://github.com/LondheShubham153/k8s-kind-voting-app.git)  
 Enhancements, deployment, and infrastructure setup by **Shreyas Kale**
 
